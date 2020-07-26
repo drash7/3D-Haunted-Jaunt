@@ -6,7 +6,7 @@ A 3D game created as part of [XRTerra's AR & VR Developer Program](https://xrter
 
 ## Description
 
-This application is a 3D game inspired by Unity Tutorials, but a modification of it. The playable character, John Lemon, who can be moved using arrow keys, is in a maze haunted with mobile ghosts and stationary gargoyles. The objective is to get John Lemon out of the maze without getting too close to ghosts or gargoyles. Upon getting too close to either of them, the game resets, and John Lemon is returned to his starting position.
+This application is a 3D game for PC, inspired by Unity Tutorials, but a modification of it. The playable character, John Lemon, who can be moved using arrow keys, is in a maze haunted with mobile ghosts and stationary gargoyles. The objective is to get John Lemon out of the maze without getting too close to ghosts or gargoyles. Upon getting too close to either of them, the game resets, and John Lemon is returned to his starting position.
 
 ## Installation
 
