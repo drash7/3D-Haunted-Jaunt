@@ -2,7 +2,7 @@
  
 A 3D game created as part of [XRTerra's AR & VR Developer Program](https://xrterra.com/programs/developer/).
 
-![](HauntedJauntScreenshot.png)
+![](HauntedJaunt3DScreenshot.png)
 
 ## Description
 
